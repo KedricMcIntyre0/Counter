@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+
+body {
+    background-color: rgb(241, 241, 241);
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+button{
+    width: 300px;
+    margin-top: 5%
+}
+
+.number{
+    margin-top: 5%;
+    font-size: 175px;
+}
+
+.Counter{
+    font-size: 100px;
+}
